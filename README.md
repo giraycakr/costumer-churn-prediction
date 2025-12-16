@@ -30,7 +30,7 @@ Make sure you have [uv](https://github.com/astral-sh/uv) installed (or use stand
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/giraycakr/costumer-churn-prediction.git
-cd telco-churn-analysis
+cd costumer-churn-prediction
 ```
 ### 2. Install Dependencies
 Using uv (Recommended):
